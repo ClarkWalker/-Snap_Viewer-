@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/me/.cache/gnome-builder/install/Snap_Viewer@clark_walker.mail.com/host
+app-id=
+postbuild=
+prebuild=
+default=true
